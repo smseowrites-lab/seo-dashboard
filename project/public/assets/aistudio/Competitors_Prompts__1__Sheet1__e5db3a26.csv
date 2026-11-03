@@ -1,0 +1,155 @@
+,mFilterIt Product,Topic Cluster,Prompt (as typed into AI assistant),Prompt Type,Buyer Intent,Funnel Stage,Competitors Likely Cited,Page Type Likely Cited,Evidence URL (seen in search),mFilterIt Angle / Content Gap
+Media Trust,Valid8,Ad fraud basics,what is ad fraud,Short,Informational,TOFU,HUMAN Security; DoubleVerify; CHEQ; Fraudlogix,Glossary / blog,�,�
+Media Trust,Valid8,Ad fraud basics,types of ad fraud,Short,Informational,TOFU,HUMAN Security; Pixalate; TrafficGuard; Fraudlogix,Blog / glossary,�,�
+Media Trust,Valid8,Ad fraud basics,how much money do advertisers lose to ad fraud every year,Long-tail,Informational,TOFU,CHEQ; Pixalate; HUMAN Security; TrafficGuard,Research report / blog,�,Publish your own yearly fraud benchmark with original numbers. AI assistants cite statistics heavily
+Media Trust,Valid8,Ad fraud basics,how do I know if my digital ad campaigns are getting fake traffic,Long-tail,Problem / How-to,MOFU,CHEQ; Lunio; ClickCease; Anura,How-to blog,�,�
+Media Trust,Valid8,Invalid traffic (IVT),what is invalid traffic GIVT vs SIVT,Long-tail,Informational,TOFU,ClickCease; DoubleVerify; IAS; Pixalate,Glossary / blog,https://www.clickcease.com/blog/what-is-invalid-traffic/,�
+Media Trust,Valid8,Invalid traffic (IVT),what is a good IVT rate for programmatic display campaigns,Long-tail,Problem / How-to,MOFU,DoubleVerify; IAS; Pixalate; Fraudlogix,Benchmark report,�,Benchmarks by vertical and channel are rare. That gap is a good citation opportunity
+Media Trust,Valid8,Invalid traffic (IVT),why is my invalid traffic rate so high in Google Ads,Long-tail,Problem / How-to,MOFU,ClickCease; Lunio; CHEQ; TrafficGuard,Blog,�,�
+Media Trust,Valid8,Click fraud (search / social),click fraud protection,Short,Best-of / Comparison,BOFU,ClickCease; CHEQ; Lunio; TrafficGuard; ClearTrust,Solution page,�,�
+Media Trust,Valid8,Click fraud (search / social),how to stop click fraud on Google Ads,Long-tail,Problem / How-to,MOFU,ClickCease; Lunio; CHEQ; TrafficGuard,How-to blog,�,�
+Media Trust,Valid8,Click fraud (search / social),are competitors clicking on my Google ads and how can I block them,Long-tail,Problem / How-to,MOFU,ClickCease; Lunio,Blog,�,�
+Media Trust,Valid8,Click fraud (search / social),does Google refund invalid clicks and how do I claim a refund,Long-tail,Problem / How-to,MOFU,ClickCease; Lunio; TrafficGuard,Blog / FAQ,�,�
+Media Trust,Valid8,Click fraud (search / social),how to detect click fraud in Meta and Performance Max campaigns,Long-tail,Problem / How-to,MOFU,CHEQ; Lunio; TrafficGuard; ClickCease,Blog,�,�
+Media Trust,Valid8,Click fraud (search / social),best click fraud detection software for PPC agencies,Long-tail,Best-of / Comparison,BOFU,Lunio; ClickCease; CHEQ; ClearTrust,Listicle on vendor blog,https://www.lunio.ai/blog/the-9-best-click-fraud-detection-tools-ranked,�
+Media Trust,Valid8,Bot traffic,bot traffic detection,Short,Best-of / Comparison,BOFU,HUMAN Security; Anura; CHEQ; Fraudlogix,Solution page,�,�
+Media Trust,Valid8,Bot traffic,how to tell if website traffic is bots or real users,Long-tail,Problem / How-to,MOFU,Anura; CHEQ; HUMAN Security; Kaminari Click,How-to blog,�,�
+Media Trust,Valid8,Bot traffic,"fake leads from paid ads, how to stop bot form submissions",Long-tail,Problem / How-to,MOFU,Anura; CHEQ; ClearTrust,Blog / solution page,�,�
+Media Trust,Valid8,Mobile app fraud,mobile ad fraud,Short,Informational,TOFU,AppsFlyer; Adjust; Singular; Kochava; Scalarr,Glossary,�,�
+Media Trust,Valid8,Mobile app fraud,click injection vs click spamming,Short,Informational,TOFU,AppsFlyer; Adjust; Branch; Singular,Glossary,�,�
+Media Trust,Valid8,Mobile app fraud,what is SDK spoofing,Short,Informational,TOFU,Adjust; AppsFlyer; Singular,Glossary,https://www.adjust.com/glossary/sdk-spoofing/ | https://www.appsflyer.com/glossary/sdk-spoofing/,�
+Media Trust,Valid8,Mobile app fraud,how to detect install fraud and fake app installs from ad networks,Long-tail,Problem / How-to,MOFU,AppsFlyer; Adjust; Scalarr; Kochava; Trackier; Fraudlogix,Blog / glossary,https://www.fraudlogix.com/?p=17169,�
+Media Trust,Valid8,Mobile app fraud,how to detect post-install event fraud in app campaigns,Long-tail,Problem / How-to,MOFU,Scalarr; AppsFlyer; Singular; Adjust,Blog,�,Full-funnel (impression to post-install) validation is a strong point of difference for mFilterIt
+Media Trust,Valid8,Mobile app fraud,is my MMP's fraud protection enough or do I need a separate ad fraud tool,Long-tail,Vendor evaluation,BOFU,AppsFlyer; Adjust; Scalarr; TrafficGuard,Blog / comparison,�,"Independent-validator story: MMPs get paid on attributed installs, so an independent check matters. Write this page"
+Media Trust,Valid8,Mobile app fraud,best mobile measurement partner with fraud protection,Long-tail,Best-of / Comparison,BOFU,AppsFlyer; Adjust; Branch; Singular; Kochava; Airbridge; Tenjin,Comparison / listicle,�,�
+Media Trust,Valid8,Mobile app fraud,AppsFlyer Protect360 vs Adjust fraud prevention,Long-tail,Alternatives / Vs,BOFU,AppsFlyer; Adjust; Singular,Product pages / comparison,�,�
+Media Trust,Valid8,CTV fraud,CTV ad fraud,Short,Informational,TOFU,HUMAN Security; DoubleVerify; Pixalate; IAS,Blog / research,https://doubleverify.com/?p=8019,�
+Media Trust,Valid8,CTV fraud,how does SSAI spoofing work in connected TV ad fraud,Long-tail,Problem / How-to,MOFU,HUMAN Security; DoubleVerify; Pixalate,Threat research blog,https://www.humansecurity.com/learn/blog/giving-fraudsters-the-cold-shoulder-inside-the-largest-connected-tv-bot-attack,�
+Media Trust,Valid8,CTV fraud,how to verify CTV impressions are served to real TVs and real viewers,Long-tail,Problem / How-to,MOFU,Pixalate; DoubleVerify; IAS; HUMAN Security,Blog / solution page,�,�
+Media Trust,Valid8,Affiliate fraud,affiliate fraud,Short,Informational,TOFU,Everflow; impact.com; Partnerize; BrandVerity,Glossary / blog,�,�
+Media Trust,Valid8,Affiliate fraud,how to stop affiliates from bidding on my brand keywords,Long-tail,Problem / How-to,MOFU,BrandVerity; impact.com,Blog / solution page,�,�
+Media Trust,Valid8,Affiliate fraud,how to detect fake conversions and cookie stuffing in my affiliate program,Long-tail,Problem / How-to,MOFU,Everflow; impact.com; Partnerize; TrafficGuard,Blog,�,�
+Media Trust,Valid8,Affiliate fraud,how to monitor coupon code leakage on coupon and cashback sites,Long-tail,Problem / How-to,MOFU,BrandVerity; impact.com; Partnerize,Blog,�,Coupon and cashback misuse appears on the mFilterIt homepage FAQ but has little competitor content
+Media Trust,Valid8,Affiliate fraud,BrandVerity alternatives,Short,Alternatives / Vs,BOFU,BrandVerity; impact.com,Third-party listicle,�,�
+Media Trust,Valid8,Ad verification (branding),ad verification tools,Short,Best-of / Comparison,BOFU,DoubleVerify; IAS; Adloox; Pixalate,Solution page / listicle,�,�
+Media Trust,Valid8,Ad verification (branding),how to measure viewability and invalid impressions in branding campaigns,Long-tail,Problem / How-to,MOFU,DoubleVerify; IAS; Adloox; Comscore,Blog,�,�
+Media Trust,Valid8,Ad verification (branding),what does MRC accreditation mean for ad verification vendors,Long-tail,Informational,TOFU,DoubleVerify; IAS; HUMAN Security; Pixalate,Press / blog,�,�
+Media Trust,Valid8,Ad verification (branding),how to avoid domain spoofing and made-for-advertising sites in programmatic,Long-tail,Problem / How-to,MOFU,DoubleVerify; IAS; Pixalate; HUMAN Security,Blog / report,�,�
+Media Trust,Valid8,Tool comparisons,best ad fraud detection tools 2026,Long-tail,Best-of / Comparison,BOFU,Fraudlogix; Lunio; CHEQ; HUMAN Security; TrafficGuard,Vendor-written listicles,https://www.fraudlogix.com/?p=17743 | https://www.lunio.ai/blog/the-9-best-click-fraud-detection-tools-ranked,"Vendors rank themselves in their own listicles, and AI assistants cite them. mFilterIt needs a fair comparison page of its own"
+Media Trust,Valid8,Tool comparisons,DoubleVerify vs Integral Ad Science,Short,Alternatives / Vs,BOFU,DoubleVerify; IAS,Comparison pages,�,�
+Media Trust,Valid8,Tool comparisons,DoubleVerify alternatives for mid-size advertisers,Short,Alternatives / Vs,BOFU,DoubleVerify; IAS; Pixalate; Adloox; CHEQ,Third-party listicle,�,�
+Media Trust,Valid8,Tool comparisons,CHEQ vs ClickCease vs Lunio,Short,Alternatives / Vs,BOFU,CHEQ; ClickCease; Lunio,Vendor comparison pages,�,�
+Media Trust,Valid8,Tool comparisons,HUMAN Security alternatives,Short,Alternatives / Vs,BOFU,HUMAN Security; CHEQ; Pixalate; Anura,Third-party listicle,�,�
+Media Trust,Valid8,Tool comparisons,TrafficGuard vs CHEQ for performance marketing,Long-tail,Alternatives / Vs,BOFU,TrafficGuard; CHEQ,Comparison page,�,�
+Media Trust,Valid8,Tool comparisons,"one ad fraud tool that covers web, app and affiliate traffic together",Long-tail,Vendor evaluation,BOFU,TrafficGuard; CHEQ; Kaminari Click; Fraudlogix,Solution page,�,Main mFilterIt positioning (full-funnel validation). Make sure a solution page answers this exact question
+Media Trust,PACE,Brand safety basics,brand safety,Short,Informational,TOFU,IAS; DoubleVerify; Zefr; GumGum,Glossary / solution page,�,�
+Media Trust,PACE,Brand safety basics,brand safety vs brand suitability,Short,Informational,TOFU,IAS; DoubleVerify; Zefr; GumGum,Blog,�,�
+Media Trust,PACE,Brand safety basics,is the GARM brand safety framework still used and what replaced it,Long-tail,Informational,TOFU,Zefr; IAS; DoubleVerify,Blog / news,�,�
+Media Trust,PACE,YouTube & video,how to keep YouTube ads away from unsafe or controversial videos,Long-tail,Problem / How-to,MOFU,Zefr; Silverpush; IAS; DoubleVerify,Blog / solution page,�,�
+Media Trust,PACE,YouTube & video,YouTube brand suitability tools,Short,Best-of / Comparison,BOFU,Zefr; Silverpush; IAS; DoubleVerify,Solution page,�,�
+Media Trust,PACE,YouTube & video,Zefr vs IAS for YouTube brand suitability,Long-tail,Alternatives / Vs,BOFU,Zefr; IAS,Comparison,�,�
+Media Trust,PACE,Contextual,contextual targeting without cookies,Short,Informational,TOFU,GumGum; Silverpush; Comscore; IAS,Blog / solution page,�,�
+Media Trust,PACE,Contextual,how does contextual advertising use computer vision on video content,Long-tail,Informational,TOFU,GumGum; Silverpush; Zefr,Blog,�,�
+Media Trust,PACE,Contextual,"keyword blocklists vs contextual AI for brand safety, pros and cons",Long-tail,Vendor evaluation,BOFU,Zefr; GumGum; IAS; Silverpush,Blog,�,�
+Media Trust,PACE,Placement quality,brand safety for CTV and streaming ads,Long-tail,Problem / How-to,MOFU,IAS; DoubleVerify; Zefr; Mediaocean,Blog / solution page,�,�
+Media Trust,PACE,Placement quality,how to avoid ads on made-for-advertising MFA sites,Long-tail,Problem / How-to,MOFU,DoubleVerify; IAS; Mediaocean,Blog / report,�,�
+Media Trust,PACE,Placement quality,how to check where my programmatic ads actually ran,Long-tail,Problem / How-to,MOFU,DoubleVerify; IAS; Mediaocean,Blog,�,Placement transparency reports are an mFilterIt strength. Publish a sample report
+Media Trust,PACE,Placement quality,brand safety on news sites without blocking all news content,Long-tail,Problem / How-to,MOFU,IAS; DoubleVerify; Comscore,Blog,�,�
+Media Trust,PACE,Placement quality,brand unsafe content in mobile in-app inventory,Long-tail,Problem / How-to,MOFU,Pixalate; IAS; DoubleVerify,Report / blog,�,�
+Media Trust,PACE,Placement quality,brand safety for influencer and creator content,Long-tail,Problem / How-to,MOFU,Zefr; Silverpush,Blog,�,�
+Media Trust,PACE,Tool comparisons,best brand safety tools 2026,Short,Best-of / Comparison,BOFU,IAS; DoubleVerify; Zefr; GumGum,Third-party listicle,�,�
+Media Trust,PACE,Tool comparisons,Silverpush alternatives,Short,Alternatives / Vs,BOFU,Silverpush; GumGum; Zefr,Third-party listicle,�,�
+Media Trust,mPulse,AI media planning,AI media planning tool,Short,Best-of / Comparison,BOFU,Basis; Skai; Smartly,Solution page,�,�
+Media Trust,mPulse,AI media planning,media planning software for brands,Short,Best-of / Comparison,BOFU,Camphouse; Basis; Skai,Solution page / listicle,�,�
+Media Trust,mPulse,AI media planning,agentic AI for marketing campaign optimization,Long-tail,Informational,TOFU,Skai; Smartly; Sprinklr; Basis,Blog / product page,�,"mPulse is pitched as agentic, a new term with little content so far. There is room to rank early"
+Media Trust,mPulse,Cross-channel ops,cross-channel campaign management platform,Short,Best-of / Comparison,BOFU,Skai; Basis; Sprinklr; Smartly,Solution page,�,�
+Media Trust,mPulse,Cross-channel ops,"how to automate media buying across Google, Meta and Amazon ads",Long-tail,Problem / How-to,MOFU,Skai; Smartly; Basis,Blog,�,�
+Media Trust,mPulse,Cross-channel ops,AI agent that adjusts bids and budgets automatically across channels,Long-tail,Vendor evaluation,BOFU,Skai; Smartly,Product page,�,�
+Media Trust,mPulse,Cross-channel ops,unified marketing reporting dashboard across ad platforms,Long-tail,Best-of / Comparison,BOFU,Sprinklr; Basis; Camphouse; Skai,Solution page,�,�
+Media Trust,mPulse,Cross-channel ops,"tools to centralise media plans, approvals and reporting for agencies",Long-tail,Best-of / Comparison,BOFU,Camphouse; Basis; Sprinklr,Solution page,�,�
+Media Trust,mPulse,Budget efficiency,how to reduce wasted ad spend using AI budget allocation,Long-tail,Problem / How-to,MOFU,Skai; Smartly; Basis,Blog,�,�
+Media Trust,mPulse,Budget efficiency,how to optimize retail media and search ads together,Long-tail,Problem / How-to,MOFU,Skai; Pacvue; Flywheel,Blog,�,�
+Media Trust,mPulse,Budget efficiency,"how to optimize campaigns only on verified traffic, not fraudulent conversions",Long-tail,Vendor evaluation,BOFU,TrafficGuard; CHEQ,Blog,�,"Little competitor content here. mFilterIt can combine validation with optimization, which none of these competitors do"
+Media Trust,mPulse,Tool comparisons,Smartly vs Skai,Short,Alternatives / Vs,BOFU,Smartly; Skai,Vendor comparison page,https://smartly.io/page/competitor-skai,�
+Media Trust,mPulse,Tool comparisons,Skai alternatives,Short,Alternatives / Vs,BOFU,Smartly; Basis; Pacvue,Third-party listicle,�,�
+Media Trust,mPulse,Tool comparisons,Basis vs Smartly,Short,Alternatives / Vs,BOFU,Basis; Smartly,Review-site comparison,�,�
+Media Trust,mScanIt,Digital shelf,what is digital shelf analytics,Short,Informational,TOFU,Profitero; Salsify; CommerceIQ; DataWeave,Glossary / blog,�,�
+Media Trust,mScanIt,Digital shelf,digital shelf analytics,Short,Best-of / Comparison,BOFU,Profitero; Salsify; CommerceIQ; DataWeave; Stackline,Solution page,�,�
+Media Trust,mScanIt,Digital shelf,best digital shelf analytics tools,Short,Best-of / Comparison,BOFU,Profitero; DataWeave; CommerceIQ; Salsify,Third-party listicle,�,�
+Media Trust,mScanIt,Digital shelf,"how to track product availability and out-of-stocks across Amazon, Walmart and quick commerce apps",Long-tail,Problem / How-to,MOFU,DataWeave; Profitero; Intelligence Node; PriceSpider,Blog / solution page,�,�
+Media Trust,mScanIt,Digital shelf,how to improve product content and listing quality across retailers,Long-tail,Problem / How-to,MOFU,Salsify; Profitero; 1DigitalStack,Blog,�,�
+Media Trust,mScanIt,Digital shelf,how to monitor ratings and reviews across marketplaces for my brand,Long-tail,Problem / How-to,MOFU,Profitero; Salsify; 1DigitalStack; DataWeave,Blog,�,�
+Media Trust,mScanIt,Share of search,how to measure share of search on Amazon,Long-tail,Problem / How-to,MOFU,Profitero; Stackline; Pacvue; CommerceIQ; Helium 10,Blog,�,�
+Media Trust,mScanIt,Pricing,competitor price monitoring tool for ecommerce brands,Long-tail,Best-of / Comparison,BOFU,Intelligence Node; Wiser Solutions; DataWeave; PriceSpider,Solution page,�,�
+Media Trust,mScanIt,Pricing,MAP pricing violation monitoring,Short,Best-of / Comparison,BOFU,PriceSpider; Wiser Solutions; Intelligence Node,Solution page,�,�
+Media Trust,mScanIt,Pricing,how to detect unauthorized sellers undercutting my prices,Long-tail,Problem / How-to,MOFU,PriceSpider; Wiser Solutions; Red Points; Corsearch,Blog,�,Overlaps with Sentinel+. mFilterIt can cover pricing and brand abuse in one story
+Media Trust,mScanIt,Quick commerce,quick commerce analytics for brands,Short,Best-of / Comparison,BOFU,GobbleCube; 1DigitalStack; Kily; Paxcom,Solution page,�,�
+Media Trust,mScanIt,Retail media,retail media optimization tool for Amazon ads,Long-tail,Best-of / Comparison,BOFU,Pacvue; Teikametrics; Skai; Flywheel; CommerceIQ,Solution page,�,�
+Media Trust,mScanIt,Retail media,how to stop sponsored ads running when the product is out of stock,Long-tail,Problem / How-to,MOFU,Pacvue; CommerceIQ; Teikametrics; Skai,Blog,�,�
+Media Trust,mScanIt,Retail media,how to tie ad spend to sales and availability on marketplaces,Long-tail,Problem / How-to,MOFU,CommerceIQ; Pacvue; Stackline; Flywheel,Blog,�,�
+Media Trust,mScanIt,Marketplace analytics,Amazon seller analytics tool,Short,Best-of / Comparison,BOFU,Helium 10; Teikametrics; Stackline,Solution page / listicle,�,�
+Media Trust,mScanIt,Marketplace analytics,ecommerce competitive intelligence platform,Short,Best-of / Comparison,BOFU,DataWeave; Intelligence Node; Stackline; Wiser Solutions,Solution page,�,�
+Media Trust,mScanIt,Tool comparisons,Profitero alternatives,Short,Alternatives / Vs,BOFU,Profitero; DataWeave; Salsify; CommerceIQ,Third-party listicle,�,�
+Media Trust,mScanIt,Tool comparisons,CommerceIQ vs Pacvue,Short,Alternatives / Vs,BOFU,CommerceIQ; Pacvue,Comparison,�,�
+Brand Trust,Sentinel+,Brand protection basics,what is brand protection,Short,Informational,TOFU,Red Points; Corsearch; OpSec; MarkMonitor,Glossary / blog,�,�
+Brand Trust,Sentinel+,Brand protection basics,brand protection software,Short,Best-of / Comparison,BOFU,Red Points; BrandShield; ZeroFox; Corsearch,Solution page,�,�
+Brand Trust,Sentinel+,Impersonation,brand impersonation,Short,Informational,TOFU,CloudSEK; Bolster; Doppel; ZeroFox; Cyble,Knowledge base / blog,https://www.cloudsek.com/ar/knowledge-base/brand-impersonation,�
+Brand Trust,Sentinel+,Impersonation,how to find and take down fake websites impersonating my brand,Long-tail,Problem / How-to,MOFU,Red Points; Bolster; Netcraft; BrandShield; Doppel,How-to blog,https://www.redpoints.com/blog/website-impersonation/,�
+Brand Trust,Sentinel+,Impersonation,how to report and remove a phishing website using my company name,Long-tail,Problem / How-to,MOFU,Netcraft; Bolster; Red Points,How-to blog,�,�
+Brand Trust,Sentinel+,Impersonation,how to remove fake social media accounts impersonating our brand,Long-tail,Problem / How-to,MOFU,ZeroFox; Doppel; BrandShield; Red Points; Cyble,How-to blog,https://www.redpoints.com/blog/social-media-phishing/,�
+Brand Trust,Sentinel+,Impersonation,executive impersonation monitoring,Short,Best-of / Comparison,BOFU,Cyble; BrandShield; ZeroFox; Doppel,Blog / solution page,https://cyble.com/articles/?p=240 | https://www.brandshield.com/blog/why-executive-impersonation-attacks-must-be-on-your-hit-list,�
+Brand Trust,Sentinel+,Impersonation,"fake customer care numbers for my brand showing on Google, how to stop them",Long-tail,Problem / How-to,MOFU,Bolster; Doppel; CloudSEK; iZOOlogic,Blog,�,Common consumer scam with few strong vendor pages. Good page for mFilterIt to own
+Brand Trust,Sentinel+,Impersonation,scam ads impersonating my brand on Facebook and Google,Long-tail,Problem / How-to,MOFU,Doppel; Axur; Bolster,Blog,�,�
+Brand Trust,Sentinel+,Impersonation,"deepfake ads using our CEO or a celebrity to promote scams, how to remove them",Long-tail,Problem / How-to,MOFU,Doppel; ZeroFox; Axur; Cyble,Blog,�,�
+Brand Trust,Sentinel+,Rogue apps,fake mobile apps impersonating my brand in app stores,Long-tail,Problem / How-to,MOFU,Bolster; Cyble; CloudSEK; Axur; RiskProfiler,Blog / solution page,�,�
+Brand Trust,Sentinel+,Rogue apps,rogue app and unauthorized APK distribution monitoring,Long-tail,Best-of / Comparison,BOFU,Cyble; CloudSEK; RiskProfiler; Axur,Solution page,�,�
+Brand Trust,Sentinel+,Domains & phishing,lookalike domain monitoring,Short,Best-of / Comparison,BOFU,CSC; MarkMonitor; Bolster; Netcraft; Doppel,Solution page,�,�
+Brand Trust,Sentinel+,Domains & phishing,typosquatting domain detection tool,Short,Best-of / Comparison,BOFU,CSC; MarkMonitor; Bolster; SOCRadar,Solution page,�,�
+Brand Trust,Sentinel+,Domains & phishing,phishing site detection and takedown service,Long-tail,Best-of / Comparison,BOFU,Netcraft; Bolster; Group-IB,Solution page,�,�
+Brand Trust,Sentinel+,Domains & phishing,how fast can phishing sites be taken down with an AI takedown service,Long-tail,Vendor evaluation,BOFU,Doppel; Bolster; Netcraft,Product page / blog,�,Takedown speed is a common buyer question. Publish your own median takedown time
+Brand Trust,Sentinel+,Domains & phishing,brand protection for banks and fintechs against phishing,Long-tail,Best-of / Comparison,BOFU,Bolster; Group-IB; Axur; CloudSEK; Cyble,Industry solution page,�,�
+Brand Trust,Sentinel+,Counterfeits & IP,counterfeit product monitoring,Short,Best-of / Comparison,BOFU,Red Points; MarqVision; OpSec; Corsearch,Solution page,�,�
+Brand Trust,Sentinel+,Counterfeits & IP,how to remove counterfeit listings on Amazon,Long-tail,Problem / How-to,MOFU,Red Points; BrandShield; MarqVision,How-to blog,https://www.redpoints.com/blog/remove-counterfeit-amazon/ | https://l.brandshield.com/marketplace-brand-protection-v2,�
+Brand Trust,Sentinel+,Counterfeits & IP,how to stop counterfeit sellers on Instagram and TikTok Shop,Long-tail,Problem / How-to,MOFU,MarqVision; Red Points; BrandShield,Blog,�,�
+Brand Trust,Sentinel+,Counterfeits & IP,trademark infringement monitoring online,Short,Best-of / Comparison,BOFU,Corsearch; iZOOlogic; Red Points; MarkMonitor,Solution page,�,�
+Brand Trust,Sentinel+,Digital risk & threat intel,digital risk protection platform,Short,Best-of / Comparison,BOFU,ZeroFox; Recorded Future; CloudSEK; SOCRadar; Cyble; Group-IB,Solution page,�,�
+Brand Trust,Sentinel+,Digital risk & threat intel,"digital risk protection vs threat intelligence, what's the difference",Long-tail,Informational,TOFU,Recorded Future; ZeroFox; SOCRadar; Flashpoint,Blog,�,�
+Brand Trust,Sentinel+,Digital risk & threat intel,how to monitor the dark web for leaked credentials and brand mentions,Long-tail,Problem / How-to,MOFU,Flashpoint; Recorded Future; SOCRadar; Cyble; CloudSEK,Blog / solution page,�,�
+Brand Trust,Sentinel+,Tool comparisons,best brand protection software 2026,Short,Best-of / Comparison,BOFU,Red Points; MarqVision; BrandShield; ZeroFox,Vendor-written listicles,https://redpoints.com/blog/best-brand-protection-software/ | https://www.marqvision.com/blog/anti-phishing-software-for-brand-protection-teams,Red Points ranks itself in its own listicle. mFilterIt needs a comparison page of its own
+Brand Trust,Sentinel+,Tool comparisons,ZeroFox alternatives,Short,Alternatives / Vs,BOFU,ZeroFox; Cyble; CloudSEK; SOCRadar; Doppel,Third-party listicle,�,�
+Brand Trust,Sentinel+,Tool comparisons,Red Points vs Corsearch,Short,Alternatives / Vs,BOFU,Red Points; Corsearch,Comparison,�,�
+Brand Trust,Sentinel+,Tool comparisons,Bolster vs Doppel,Short,Alternatives / Vs,BOFU,Bolster; Doppel,Comparison,�,�
+Brand Trust,Sentinel+,Tool comparisons,MarkMonitor vs CSC for domain protection,Long-tail,Alternatives / Vs,BOFU,MarkMonitor; CSC,Comparison,�,�
+Brand Trust,Sentinel+,Tool comparisons,Cyble vs CloudSEK,Short,Alternatives / Vs,BOFU,Cyble; CloudSEK,Comparison,�,�
+Financial Trust,Scam++,Mule accounts,what is a money mule account,Long-tail,Informational,TOFU,Feedzai; BioCatch; Featurespace,Glossary / blog,�,�
+Financial Trust,Scam++,Mule accounts,money mule account detection,Short,Best-of / Comparison,BOFU,BioCatch; Feedzai; NICE Actimize; Featurespace,Solution page / blog,https://feedzai.com/blog/a-money-mule-detection-blueprint-for-banks/,�
+Financial Trust,Scam++,Mule accounts,how do banks detect mule accounts before the money moves out,Long-tail,Problem / How-to,MOFU,BioCatch; Feedzai; Featurespace; Hawk AI,Blog,�,�
+Financial Trust,Scam++,Mule accounts,behavioral biometrics for mule detection,Short,Informational,TOFU,BioCatch; Feedzai,Blog,https://feedzai.com/blog/behavioral-biometrics-for-money-mule-account-detection/,�
+Financial Trust,Scam++,Mule accounts,mule account red flags for banks and payment apps,Long-tail,Problem / How-to,MOFU,Feedzai; BioCatch; Unit21; Sardine,Blog,�,�
+Financial Trust,Scam++,Mule accounts,how to find networks of linked mule accounts using graph analytics,Long-tail,Problem / How-to,MOFU,Quantexa; DataWalk; Palantir; Siren,Blog / solution page,�,�
+Financial Trust,Scam++,Investment scams,investment scam detection for banks,Short,Best-of / Comparison,BOFU,BioCatch; Featurespace; Feedzai,Solution page,�,�
+Financial Trust,Scam++,Investment scams,how to detect pig butchering scams,Long-tail,Problem / How-to,MOFU,BioCatch; Feedzai; Featurespace; Sardine,Blog,�,�
+Financial Trust,Scam++,Investment scams,how to find fake trading apps and WhatsApp or Telegram investment groups targeting our customers,Long-tail,Problem / How-to,MOFU,Group-IB; Blackdot Solutions; Maltego,Blog,�,OSINT-based outside-in scam monitoring is the mFilterIt angle. Transaction-monitoring vendors don't cover it
+Financial Trust,Scam++,Investment scams,authorized push payment (APP) fraud prevention,Long-tail,Best-of / Comparison,BOFU,Featurespace; BioCatch; Feedzai; NICE Actimize,Solution page,�,�
+Financial Trust,Scam++,Investigation & OSINT,OSINT tools for financial crime investigations,Long-tail,Best-of / Comparison,BOFU,Blackdot Solutions; Maltego; Sayari; Siren,Solution page / listicle,�,�
+Financial Trust,Scam++,Investigation & OSINT,scam intelligence platform for fraud teams,Long-tail,Vendor evaluation,BOFU,Blackdot Solutions; Maltego; Sayari; Siren,Solution page,�,�
+Financial Trust,Scam++,Investigation & OSINT,entity resolution for financial crime,Short,Informational,TOFU,Quantexa; Sayari; Palantir; DataWalk,Blog / solution page,�,�
+Financial Trust,Scam++,Merchant risk,merchant onboarding verification,Short,Best-of / Comparison,BOFU,Signzy; Middesk; Persona; Sumsub; Alloy,Solution page,https://sayari.com/wp-content/uploads/2026/04/cs-top-payments-kyb.pdf,�
+Financial Trust,Scam++,Merchant risk,what is KYB,Short,Informational,TOFU,Middesk; Sumsub; Trulioo; ComplyCube,Glossary,�,�
+Financial Trust,Scam++,Merchant risk,how to verify a merchant's website before onboarding to a payment gateway,Long-tail,Problem / How-to,MOFU,Sardine; Signzy; Middesk,Blog,�,mFilterIt has reviewed over 1 lakh merchant websites. Turn that into a data-backed guide
+Financial Trust,Scam++,Merchant risk,transaction laundering detection,Short,Best-of / Comparison,BOFU,Sardine; Hawk AI,Solution page,�,�
+Financial Trust,Scam++,Merchant risk,ongoing merchant monitoring after onboarding,Short,Problem / How-to,MOFU,Sardine; Middesk; Sumsub; Alloy,Blog,�,This question is already in mFilterIt's homepage FAQ. Expand it into a full page
+Financial Trust,Scam++,Merchant risk,high-risk merchant red flags for acquirers and PSPs,Long-tail,Problem / How-to,MOFU,Sardine; Sumsub; Middesk,Blog,�,�
+Financial Trust,Scam++,Chargebacks,chargeback fraud prevention,Short,Best-of / Comparison,BOFU,Sardine; Featurespace; Feedzai,Solution page,�,�
+Financial Trust,Scam++,Chargebacks,"friendly fraud vs chargeback abuse, how to dispute them",Long-tail,Problem / How-to,MOFU,Sardine; Feedzai,Blog,�,�
+Financial Trust,Scam++,AML & fraud monitoring,AML transaction monitoring software,Short,Best-of / Comparison,BOFU,NICE Actimize; Hawk AI; Unit21; Feedzai,Solution page,�,�
+Financial Trust,Scam++,AML & fraud monitoring,real-time fraud detection for payments,Short,Best-of / Comparison,BOFU,Feedzai; Featurespace; Sardine; NICE Actimize,Solution page,�,�
+Financial Trust,Scam++,AML & fraud monitoring,how to reduce false positives in AML alerts with AI,Long-tail,Problem / How-to,MOFU,Hawk AI; Unit21; Quantexa; Featurespace,Blog,�,�
+Financial Trust,Scam++,KYC / KYB,best KYC and KYB providers,Short,Best-of / Comparison,BOFU,Sumsub; Trulioo; Persona; Alloy; Signzy; HyperVerge; IDfy; ComplyCube,Third-party listicle,�,�
+Financial Trust,Scam++,KYC / KYB,identity verification API for fintech,Short,Best-of / Comparison,BOFU,HyperVerge; Persona; Sumsub; Trulioo; IDfy,Solution page,�,�
+Financial Trust,Scam++,Tool comparisons,BioCatch vs Feedzai,Short,Alternatives / Vs,BOFU,BioCatch; Feedzai,Comparison,�,�
+Financial Trust,Scam++,Tool comparisons,Feedzai alternatives,Short,Alternatives / Vs,BOFU,Feedzai; Featurespace; NICE Actimize; Hawk AI,Third-party listicle,�,�
+Financial Trust,Scam++,Tool comparisons,NICE Actimize alternatives for mid-size banks,Long-tail,Alternatives / Vs,BOFU,Hawk AI; Unit21; Feedzai; Featurespace,Third-party listicle,�,�
+Financial Trust,Scam++,Tool comparisons,Sumsub vs Persona vs Trulioo,Short,Alternatives / Vs,BOFU,Sumsub; Persona; Trulioo,Comparison,�,�
+Financial Trust,Scam++,Tool comparisons,Quantexa vs Palantir for fraud investigations,Long-tail,Alternatives / Vs,BOFU,Quantexa; Palantir,Comparison,�,�
+Financial Trust,Scam++,Tool comparisons,Signzy alternatives,Short,Alternatives / Vs,BOFU,Signzy; HyperVerge; IDfy; Sumsub,Third-party listicle,�,�

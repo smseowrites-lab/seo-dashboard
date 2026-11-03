@@ -1,0 +1,6 @@
+{
+  "name": "mFilterIt Digital Marketing Action Center",
+  "description": "AI-powered daily intelligence, optimization, content execution & distribution for mFilterIt marketing teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
